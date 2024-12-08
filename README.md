@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Abdulahadlatifi
+- 👀 I’m interested in **biomedical engineering, AI applications in healthcare, and programming.**
+- 🌱 I’m currently learning **more about microcontroller programming, machine learning, and advanced biomedical device design.**
+- 💞️ I’m looking to collaborate on **projects related to biomedical device development, AI, and open-source healthcare technologies.**
+- 📫 How to reach me: **You can contact me via email at abdulahadlatifi6@gmail.com or on WhatsApp at +93789296686.**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love combining technology with healthcare to solve real-world problems, and I'm passionate about helping improve neonatal care through innovations like the Infant Warmer Pro.**
